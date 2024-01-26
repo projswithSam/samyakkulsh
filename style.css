@@ -748,4 +748,14 @@ span{
         width: 90vw;
     }
 }
+@media (max-width: 770px){
+    .portfolio-layer h4{
+        font-size: 1.7rem;
+    }
+    .portfolio-layer p{
+        font-size: 1rem;
+        margin: .3rem 0 1rem;
+    }
+
+}
 
